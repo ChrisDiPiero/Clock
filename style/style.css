@@ -1,8 +1,5 @@
-html {
-  background-size: cover;
-  font-family: 'helvetica neue';
-  align-items: center;
-  font-size: 10px;
+html, body {
+  overflow: hidden;
 }
 
 .clock-center {
